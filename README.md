@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and HTML
 - 🏫 I'm currently a First Year BSIT student at Marian College of Baliuag, Inc.
 - 📫 johndelldelosreyes4@gmail.com
-- 😄 Pronouns: Him/His
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I play a lot, we can play together! 😁 
 
 <!---
