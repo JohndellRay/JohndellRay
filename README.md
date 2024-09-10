@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Johndell Ray
-- 👀 I’m interested in Tech-related things
-- 🌱 I’m currently learning Bachelor of Science in Information Technology
-- 💞️ I’m looking to collaborate on practicing of coding
+- 👀 I’m interested in Tech-related things ✨
+- 🌱 I’m currently learning Java and HTML
+- 🏫 I'm currently a First Year BSIT student at Marian College of Baliuag, Inc.
 - 📫 johndelldelosreyes4@gmail.com
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I play a lot, we can play together! 😁 
